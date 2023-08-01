@@ -43,8 +43,8 @@ npm install firebase firebase-admin
 The [Firebase Admin SDK](https://firebase.google.com/docs/reference/admin) is the preferred way to run Firebase server-side. In your Nuxt project, create the following files:
 
 ```bash
-/server/api/animal.js
-/server/utils/firebase.js
+/server/api/animal.ts
+/server/utils/firebase.ts
 ```
 ### Initialize Firebase Admin
 
